@@ -1,6 +1,6 @@
 # Hi, I'm Volodymyr 👋
 
-### Full-Stack Web Developer · Laravel & Vue.js
+### Full-Stack Web Developer · Laravel & Alpine.js
 
 I turn business ideas into reliable, scalable web applications — CRM systems, booking platforms, SaaS products, and business automation tools.
 
