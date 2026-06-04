@@ -4,7 +4,7 @@
 
 I turn business ideas into reliable, scalable web applications — CRM systems, booking platforms, SaaS products, and business automation tools.
 
-- 🔭 Building modern web apps with **Laravel** & **Vue.js**
+- 🔭 Building modern web apps with **Laravel** & **Alpine.js**
 - 🌱 Exploring **AI integrations** and cloud technologies
 - 💡 Passionate about products that solve real business problems
 - 📍 Based in **Ukraine**
