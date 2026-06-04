@@ -24,6 +24,10 @@ I turn business ideas into reliable, scalable web applications — CRM systems, 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ---
+## 🛠 Tech Stack 2
+
+![PHP](https://shields.io) ![Laravel](https://shields.io) ![JavaScript](https://shields.io) ![Alpine.js](https://shields.io) ![MySQL](https://shields.io) ![REST API](https://shields.io) ![Docker](https://shields.io) ![Git](https://shields.io)
+
 
 ## 📫 Connect with me
 
